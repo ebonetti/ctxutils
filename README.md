@@ -20,5 +20,4 @@ This package can be installed with the go get command:
 
 Documentation
 -------------
-
-API documentation can be found here: http://godoc.org/github.com/ebonetti/ctxutils
+API documentation can be found in the [associated godoc reference](https://godoc.org/github.com/ebonetti/ctxutils)
